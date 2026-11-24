@@ -1,0 +1,59 @@
+{
+  "total_input": 4,
+  "total_valid": 2,
+  "total_diabaikan": 2,
+  "daftar_prodi_unik": [
+    "S1-Informatika",
+    "S1-Teknik Komputer"
+  ],
+  "rata_rata_ipk_prodi": {
+    "S1-Teknik Komputer": 3.75,
+    "S1-Informatika": 3.4
+  },
+  "kelompok_mahasiswa_prodi": {
+    "S1-Teknik Komputer": [
+      "Arya Pratama"
+    ],
+    "S1-Informatika": [
+      "Billy Saputra"
+    ]
+  },
+  "data_valid": [
+    {
+      "nim": "25.11.0001",
+      "nama": "Arya Pratama",
+      "prodi": "S1-Teknik Komputer",
+      "ipk": 3.75,
+      "sks": 88
+    },
+    {
+      "nim": "25.11.0002",
+      "nama": "Billy Saputra",
+      "prodi": "S1-Informatika",
+      "ipk": 3.4,
+      "sks": 84
+    }
+  ],
+  "catatan_diabaikan": [
+    {
+      "data": {
+        "nim": "25.11.0001",
+        "nama": "Raffi Ahmad",
+        "prodi": "S1-Teknik Komputer",
+        "ipk": 3.75,
+        "sks": 88
+      },
+      "alasan": "Duplikat NIM: 25.11.0001"
+    },
+    {
+      "data": {
+        "nim": "25.11.0003",
+        "nama": "Willie Salim",
+        "prodi": "S1-Teknik Komputer",
+        "ipk": 4.5,
+        "sks": 80
+      },
+      "alasan": "IPK di luar rentang [0.0, 4.0]: 4.5"
+    }
+  ]
+}

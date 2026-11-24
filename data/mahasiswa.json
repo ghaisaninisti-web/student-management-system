@@ -1,0 +1,30 @@
+[
+  {
+    "nim": "25.11.0001",
+    "nama": "Arya Pratama",
+    "prodi": "S1-Teknik Komputer",
+    "ipk": 3.75,
+    "sks": 88
+  },
+  {
+    "nim": "25.11.0002",
+    "nama": "Billy Saputra",
+    "prodi": "S1-Informatika",
+    "ipk": 3.40,
+    "sks": 84
+  },
+  {
+    "nim": "25.11.0001",
+    "nama": "Raffi Ahmad",
+    "prodi": "S1-Teknik Komputer",
+    "ipk": 3.75,
+    "sks": 88
+  },
+  {
+    "nim": "25.11.0003",
+    "nama": "Willie Salim",
+    "prodi": "S1-Teknik Komputer",
+    "ipk": 4.50,
+    "sks": 80
+  }
+]
